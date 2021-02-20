@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1607883453 source:d:\code block\codeblocks\template\pbl_project(final)\project_code.cpp
+	<iostream>
+	<fstream>
+	<string.h>
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<iomanip>
+
+1608195569 source:d:\code block\codeblocks\template\pbl_project(final)\main.cpp
+	<iostream>
+	<fstream>
+	<string.h>
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<iomanip>
+
