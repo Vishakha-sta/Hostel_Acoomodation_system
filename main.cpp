@@ -82,7 +82,7 @@ int hostel::add()
     if(r>=1&&r<=100){
     flag=check(r);
     if(flag){
-        cout<<"\n Sorry..!!!Room is already booked"<<endl;
+        cout<<"\n Sorry..!!!This Room is already booked"<<endl;
         cout<<"\n Enter another Room number "<<endl;
         getch();
         goto pqr;
@@ -105,7 +105,7 @@ int hostel::add()
     }
     }
     else{
-        cout<<"\n\t\tRoom does not exist";
+        cout<<"\n\t\tChoosen Room does not exist";
         goto pqr;
     }
     cout<<"\n \t\tPress any key to continue!!";
